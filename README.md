@@ -1,5 +1,5 @@
 # serial-port
-A Serial Port monitoring application based on QT. (under development version 2.4.2)
+A Serial Port monitoring application based on QT. (under development version 2.4.3)
 -----------------------------------------------------------------------------------
 - Detachable Windows. (according to your desire, you can enable-disable windows visibility or positions).
 - Options for better contrtol of the data.
